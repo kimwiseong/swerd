@@ -1,0 +1,2 @@
+# swerd
+jpa mapping example
